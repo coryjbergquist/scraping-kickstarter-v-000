@@ -11,4 +11,3 @@ end
 
 
 create_project_hash
-binding.pry
